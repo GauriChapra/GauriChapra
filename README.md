@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HEY! I'm Gauri 
 A Web Development and Machine Learning Enthusiast.
 
 
